@@ -1,2 +1,2 @@
 # Bark-ai-long-generation
-Bark Ai for long generation
+Follow the instruction in ipynb file, thank you
